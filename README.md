@@ -13,3 +13,5 @@ Not sure what I will do with the three R scripts
 
 Text added on github
 Step 13 - added more changes
+
+The exercise was not too long. Maybe 30 min total
