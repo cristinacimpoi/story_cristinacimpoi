@@ -7,3 +7,6 @@ b.	Keywords
 c.	Objective of your research project
 d.	Description of the variables you have measured
 e.	Your Hypothesis
+
+
+Not sure what I will do with the three R scripts
