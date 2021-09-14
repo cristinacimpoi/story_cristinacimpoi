@@ -12,3 +12,4 @@ e.	Your Hypothesis
 Not sure what I will do with the three R scripts
 
 Text added on github
+Step 13 - added more changes
