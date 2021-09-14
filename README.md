@@ -15,3 +15,6 @@ Text added on github
 Step 13 - added more changes
 
 The exercise was not too long. Maybe 30 min total
+ 
+
+Change added at 16:04
